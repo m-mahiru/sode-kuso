@@ -8,7 +8,7 @@ const char* ssid = "ベリーのiphone";
 const char* password = "1234567890abec";
 
 // サーバー設定
-const char* serverUrl = "http://your-server.com/data"; // センサーデータ送信用URL
+const char* serverUrl = "http://163.43.208.237/"; // センサーデータ送信用URL
 
 // GPS設定
 HardwareSerial gpsSerial(1); // UART1を使用
